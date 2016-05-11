@@ -2166,7 +2166,7 @@
 			}
 
 			#main > section.two {
-				background-color: #f5fafa;
+				background-color: #f5fafa; text-align: left
 			}
 
 			#main > section.three {
@@ -2174,6 +2174,14 @@
 			}
 
 			#main > section.four {
+				background-color: #e8edec;
+			}
+
+			#main > section.five {
+				background-color: #e8edec;
+			}
+
+			#main > section.six {
 				background-color: #e8edec;
 			}
 
