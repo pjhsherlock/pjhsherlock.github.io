@@ -2132,8 +2132,7 @@
 		}
 
 			#main > section.dark {
-				color: #ddd;
-				color: rgba(255, 255, 255, 0.75);
+				color: #888;
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -2141,12 +2140,12 @@
 				}
 
 				#main > section.dark strong {
-					color: #fff;
+					color: #888;
 					border-color: inherit;
 				}
 
 				#main > section.dark a {
-					color: #fff;
+					color: #888;
 					border-color: inherit;
 				}
 
